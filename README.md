@@ -1,0 +1,1 @@
+“Django blog evolving from FBV to CBV to DRF”.
